@@ -5,7 +5,7 @@
 #include "pitches.h"
 
 #define MELODY_LENGTH(melody) sizeof(melody)/sizeof(melody[0])/ 2
-#define SW_PIN 53
+#define SW_PIN 7
 #define VRX_PIN A0
 #define VRY_PIN A1
 
