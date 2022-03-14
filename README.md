@@ -7,9 +7,8 @@ Check out a demo here: https://socialrumbles.com/post/230
 # Tutorial
 Parts and Video Demo Here - https://socialrumbles.com/post/230
 
-_📙 Libraries:_ 
-- https://github.com/MHeironimus/ArduinoJoystickLibrary#installation-instructions (joystick.h)
-- https://github.com/YuriiSalimov/AxisJoystick#installation (axisjoystick.h)
+_📙 Libraries:_
+- https://github.com/YuriiSalimov/AxisJoystick#installation (axisjoystick.h & joystick.h)
 - https://www.arduino.cc/en/reference/wire (wire.h)
 - https://www.arduino.cc/reference/en/libraries/liquidcrystal-i2c/ (liquidcrystal_I2C.h)
 
