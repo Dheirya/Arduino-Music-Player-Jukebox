@@ -11,3 +11,17 @@ Libraries:
 - https://www.arduino.cc/reference/en/libraries/liquidcrystal-i2c/ (liquidcrystal_I2C.h)
 
 Connections:
+**Joystick:**
+- GND to GND
+- 5V to 5V
+- VRX to A0
+- VRY to A1
+- SW to 53
+**LCD I2C:**
+- GND to GND
+- 5V to 5V
+- SDA to SDA (20)
+- SCL to SCL (21)
+**Buzzer:**
+- GND to GND
+- 5V to 11
