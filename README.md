@@ -1,6 +1,9 @@
 # Arduino-Music-Player-Jukebox
 A simple arduino music player with 11 songs.
 
+# Credits
+All music lyrics credit go to [robsoncouto](https://github.com/robsoncouto) and his [arduino-songs repository](https://github.com/robsoncouto/arduino-songs). Check it out if you want to add any new songs- they're great!
+
 # Demo
 Check out a demo here: https://socialrumbles.com/post/230
 
